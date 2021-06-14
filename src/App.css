@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  background-color: wheat;
+}
+.heading {
+  font-family: cursive;
+}
+.users {
+  margin-top: 70px;
+  display: flex;
+  justify-content: space-around;
+}
+
